@@ -1,0 +1,2 @@
+site:..uk intext:security report reward
+"responsible disclosure" $(amount)
